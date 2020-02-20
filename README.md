@@ -224,12 +224,12 @@ Similarly to cross entropy cost function, hinge loss penalizes those predictions
 As you can see in the below illustration, as soon as prediction starts deviating much from the expected output of +1 or -1, the incurred cost also starts ascending.
 
 ## A quick summary
-1.Cost functions in machine learning, also known as loss functions, calculates the deviation of predicted output from actual output during the training phase.\n
-2.Cost functions are an important part of the optimization algorithm used in the training phase of models like logistic regression, neural network, support vector machine.
-3.There are many cost functions to choose from and the choice depends on type data and type of problem (regression or classification).
-4.Mean squared error (MSE) and Mean Absolute Error (MAE) are popular cost functions used in regression problems.
-5.For classification problems, the models which give probability output mostly use categorical cross entropy and binary cross entropy cost functions.
-6.SVM, another classification model uses Hinge Loss as its cost function
+- 1.Cost functions in machine learning, also known as loss functions, calculates the deviation of predicted output from actual output during the training phase.
+- 2.Cost functions are an important part of the optimization algorithm used in the training phase of models like logistic regression, neural network, support vector machine.
+- 3.There are many cost functions to choose from and the choice depends on type data and type of problem (regression or classification).
+- 4.Mean squared error (MSE) and Mean Absolute Error (MAE) are popular cost functions used in regression problems.
+- 5.For classification problems, the models which give probability output mostly use categorical cross entropy and binary cross entropy cost functions.
+- 6.SVM, another classification model uses Hinge Loss as its cost function
 
 
 ## In the End…
