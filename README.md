@@ -1,25 +1,25 @@
 # Machine-Learning-Cost-Functions
 ## Table of Contents	
 ## Introduction
-Why Cost Functions in Machine Learning
-Cost functions for Regression problems
-Initial Concept –  Distance Based Error
-Mean Error (ME)
-Mean Squared Error (MSE)
-Mean Absolute Error (MAE)
-MSE Vs MAE – Which one to choose?
-MSE penalizes small errors
-MSE has an adverse effect on Outliers
-Cost functions for Classification problems
-Initial Concept –  Cross Entropy Intuition
-Categorical Cross Entropy Cost Function
-Binary Cross Entropy Cost Function
-Why Cross Entropy and Not MAE/MSE in Classification?
-Overconfident wrong prediction
-Penalization of overconfident wrong prediction
-Hinge Loss Function
-A quick summary
-In the End…
+- Why Cost Functions in Machine Learning
+- Cost functions for Regression problems
+- Initial Concept –  Distance Based Error
+- Mean Error (ME)
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
+- MSE Vs MAE – Which one to choose?
+- MSE penalizes small errors
+- MSE has an adverse effect on Outliers
+- Cost functions for Classification problems
+- Initial Concept –  Cross Entropy Intuition
+- Categorical Cross Entropy Cost Function
+- Binary Cross Entropy Cost Function
+- Why Cross Entropy and Not MAE/MSE in Classification?
+- Overconfident wrong prediction
+- Penalization of overconfident wrong prediction
+- Hinge Loss Function
+- A quick summary
+- In the End…
 
 ## Introduction
 Cost functions in machine learning are functions that help to determine the offset of predictions made by a machine learning model with respect to actual results during the training phase. These are used in those supervised learning algorithms that use optimization techniques. Notable examples of such algorithms are regression, logistic regression, neural network, etc. You can understand more about optimization at the below link.
